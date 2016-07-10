@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Table of Contents
 
 1. [Challenge Summary] (README.md#challenge-summary)
@@ -438,3 +439,6 @@ Generally, we will evaluate your coding challenge with a testing suite that prov
 
 * *How long will it take for me to hear back from you about my submission?*  
 We receive hundreds of submissions and try to evaluate them all in a timely manner.  We try to get back to all applicants within two or three weeks of submission, but if you have a specific deadline that requires expedited review, you may email us at cc@insightdataengineering.com.  
+=======
+# Venmo
+>>>>>>> 722aa73458db839e41ad520dff2dc4426579b48a
